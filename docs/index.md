@@ -9,5 +9,5 @@ Paragrafo Paragrafo
 
 [I'm a relative reference to Mg_Articoli.txt](./Mg_Articoli.txt)
 
-[I'm a relative reference to Mg_Articoli.html](./Mg_Articoli.html)
+[I'm a relative reference to Mg_Articoli.html](./Mg_Articoli1.html)
 
